@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "YandexMapsMobile",
-            url: "https://drive.google.com/file/d/1Vc-BTqqZtmTrvOwnJWoEncbAeOhwQWcF/view?usp=sharing",
+            url: "https://drive.google.com/uc?id=1Vc-BTqqZtmTrvOwnJWoEncbAeOhwQWcF&export=download",
             checksum: "edb47466aa71e6057065d8ce2ab875fd4facb92bfa4b1df646196a3fa5239cbd"
         ),
     ]
