@@ -1,3 +1,3 @@
 # YandexMaps
 
-Swift Package wrapper for YandexMapsMobile 4.1.0 Full
+Swift Package wrapper for YandexMapsMobile 4.1.0 Lite
